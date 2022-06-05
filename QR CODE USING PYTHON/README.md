@@ -1,6 +1,4 @@
-# PY-MINI
-
-ROCK PAPER SCISSORS
+# ROCK PAPER SCISSORS
 The Rock, Paper & Scissors game is our goal to create a command-line game. 
 Where a user has the option to choose between Rock, Paper and Scissors
 - If the user wins then the score will increase by 1 and 
