@@ -1,6 +1,4 @@
-# PY-MINI
-
-DICE ROLL SIMULATER
+# DICE ROLL SIMULATER
 #### install "-m pip install -U autopep8" to properly format python code.
 
 - Import the random module to have access to all the functions included in the module.
