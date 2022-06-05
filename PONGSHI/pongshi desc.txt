@@ -1,7 +1,0 @@
-"PONGSHI"
-
-1. I created a game to learn python better and get the hang of the workings.
-2. I named it pongshi to give it a twaist from the normal pingpong
-3. first, I made all the elements that included the paddles, ball etc
-4. then I assigned fucntions to all of them and how they would behave 
-5.at last, to make it more fun, I added some sound effects.
