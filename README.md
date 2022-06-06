@@ -8,3 +8,4 @@ Useful on ocassions to share QR with individuals by sharing on e-mail as well as
 ### PING-PONG WITH SOUND
 Adding the colored fun to a simple game of Ping-Pong using Python.
 ### XP-CALCULATOR 
+Calculating the XP required for completing the Valorant battlepass.
